@@ -9,6 +9,16 @@ AGAINST BEAUTY IN PHYSICS
   QOTE : 'It hit me pretty hard. Some of this stuff is really philosophically potent in a way that's easy to overlook.' - faun
   DONE : true
   REVI : true
+  
+  
+DUCK DB
+  PERS : rezmason
+  SRCE : Merveilles
+  LINK : https://duckdb.org/2023/03/03/json.html
+  TYPE : game
+  DATE : 12018-07-03
+  NOTE : JSON DUCKDB
+  DONE : false
 
 HACKETY HACK
   PERS : cblgh
